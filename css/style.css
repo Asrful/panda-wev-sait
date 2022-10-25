@@ -1,0 +1,100 @@
+.container{
+  margin-bottom: 50px;
+}
+/* --------navbar.csss------1------ */
+
+.navbar{
+  background:#f1f0f1 ;
+}
+/* ---------------slider.css--------2------ */
+.background-ching{
+  background:#fdeae9 ;
+  border-radius: 10px;
+}
+.carousel-item{
+  padding: 20px 40px;
+  
+}
+.price{
+  color:#d83049 ;
+}
+/* ---------------3 item-podact.css--------3------ */
+
+.back-1{
+  background:#d548e2;
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.back-2{
+  background:hsl(244, 52%, 48%);
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 10px;
+
+}
+.back-3{
+  background:#d3d348;
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 10px;
+
+}
+.back-1 img, .back-2 img, .back-3 img{
+  width: 120px;
+}
+/* --------------shoes-css---------4----- */
+.card{
+  border:none;
+  box-shadow: 5px 5px 10px lightgray;
+
+}
+.card img{
+  width: 300px;
+}
+.shobtn{
+  background:#d548e2;
+}
+.card-title{
+  text-transform: uppercase;
+}
+.back-btn{
+  background: #d83049;
+  color: #fff;
+  border: none;
+  padding: 7px 10px;
+  border-radius: 10px;
+}
+.card-footer{
+  border-top: none !important;
+}
+#Subscribe{
+  background:#fdeae9 ;
+  height: 300px;
+}
+.suvmit input{
+ border-radius: 10px;
+  padding: 10px;
+  border: none;
+  box-shadow: 3px 5px 10px lightgrey;
+             
+
+}
+.btn.btn-f0ter{
+  top: 0;
+  margin-left:-2px;
+  padding:10px;
+  background:#fff;
+  border: none;
+  box-shadow: 10px;
+  box-shadow: 3px 5px 10px lightgrey;
+
+}
+.btn.btn-f0ter:hover{
+  background:#d83049;
+  color: #fff;
+}
+footer{
+  text-align: center;
+  margin-top: -10PX;
+}
